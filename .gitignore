@@ -3,3 +3,8 @@ build/
 .env.local
 .DS_Store
 .idea/
+
+node_modules/
+build/
+.idea/
+.env.local
